@@ -8,4 +8,4 @@ Timeline:
 - 💬 Always willing to collaborate on ideas
 - 📫 My Instagram: @seshaalaap
 
-[Interested in working at the intersection of Astro x AI ]
+[ Interested in working at the intersection of Astro x AI ]
