@@ -3,9 +3,9 @@ I'm an undergraduate Physics major & Mathematics minor passionate about AI-ML an
 
 Timeline:
 
-- 🔭 Building star type predictors using logistic regression
-- 🌱 I’m currently learning Computer Vision
+- 🔭 Building logistic regression based star type predictors using FastAPI, Sklearn and Streamlit
+- 🌱 Currently learning Computer Vision
 - 💬 Always willing to collaborate on ideas
 - 📫 My Instagram: @seshaalaap
 
-AI and the space industry will dominate the market within the decade, and I wish to work at the intersection. 
+Interested in working at the intersection of Astro x AI 
