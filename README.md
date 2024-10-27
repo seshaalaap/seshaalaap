@@ -7,4 +7,3 @@ Timeline:
 - 🌱 I’m currently learning Computer Vision
 - 💬 Always willing to collaborate on ideas
 - 📫 My Instagram: @seshaalaap
-- 💻 LinkedIn: Coming soon...
