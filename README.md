@@ -6,5 +6,5 @@ Timeline:
 - 🔭 I’m currently working on star type predictors
 - 🌱 I’m currently learning Computer Vision
 - 💬 Always willing to collaborate on ideas
-- 📫 Reach out to collaborate: @seshaalaap
+- 📫 My Instagram: @seshaalaap
 - 💻 LinkedIn: Coming soon...
