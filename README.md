@@ -1,5 +1,5 @@
 ## Hey there 👋 I'm Aalaap Seshanand
-I'm an undergraduate Physics major & Mathematics minor passionate about AI-ML and all things tech 🚀 My field of interest is Astrophysics and I love building Machine Learning projects in my free time. 
+I'm an undergraduate Physics major & Mathematics minor passionate about AI and ML 🚀 I build Machine Learning projects in my free time. 
 
 Timeline:
 
