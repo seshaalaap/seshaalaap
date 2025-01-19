@@ -3,7 +3,7 @@ I'm an undergraduate Physics major & Mathematics minor passionate about AI 🚀 
 
 Timeline:
 
-- 🔭 Building Lunar Segmentation model employing Computer Vision and libraries like Sklearn
+- 🔭 Building a Lunar Segmentation model employing Computer Vision and libraries like Sklearn
 - 🌱 Currently learning GANs
 - 💬 Always willing to collaborate on ideas
 - 📫 My Instagram: @seshaalaap
