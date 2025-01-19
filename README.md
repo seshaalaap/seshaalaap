@@ -3,8 +3,8 @@ I'm an undergraduate Physics major & Mathematics minor passionate about AI 🚀 
 
 Timeline:
 
-- 🔭 Building logistic regression based star type predictors using FastAPI, Sklearn and Streamlit
-- 🌱 Currently learning Computer Vision
+- 🔭 Building Lunar Segmentation model employing Computer Vision and libraries like Sklearn
+- 🌱 Currently learning GANs
 - 💬 Always willing to collaborate on ideas
 - 📫 My Instagram: @seshaalaap
 
